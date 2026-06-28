@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Alireza%20Banner.png" alt="Alireza Zaeri GitHub Banner" width="100%">
+</p>
+
 # Alireza Zaeri
 
 **AI Engineer | Machine Learning Engineer**
