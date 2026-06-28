@@ -6,15 +6,19 @@
 
 **AI Engineer | Machine Learning Engineer**
 
-I build AI-powered applications and machine learning solutions with a focus on machine learning, deep learning, computer vision, and mobile AI. My goal is to bridge research and software engineering by developing intelligent systems that solve real-world problems.
+I specialize in building end-to-end AI systems that transform research into real-world applications.
+
+My expertise includes machine learning, deep learning, computer vision, and mobile AI, with experience deploying production-ready AI applications on Android.
 
 ---
 
 ## About Me
 
-I enjoy transforming machine learning models into practical applications. My experience includes developing deep learning models for image classification, building AI-powered applications, and designing end-to-end machine learning solutions from data preparation to model evaluation and deployment.
+I enjoy solving real-world problems through artificial intelligence and continuously exploring new technologies in machine learning and computer vision.
 
-In addition to software development, I actively contribute to artificial intelligence research.
+My projects range from deep learning research and image classification to Android AI applications, where I focus on writing clean, maintainable, and production-ready code.
+
+I am also actively involved in AI research and enjoy sharing knowledge, learning from the community, and collaborating on innovative ideas.
 
 ---
 
