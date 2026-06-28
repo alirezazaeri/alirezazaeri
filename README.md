@@ -99,17 +99,17 @@ An explainable machine learning framework for ADHD classification using the same
 
 ---
 
-## Published Android Applications
+## Mobile AI Applications
 
 ### Dog Breed Identifier
 
-Android application available on Google Play.
+Android application powered by a TensorFlow Lite model for real-time dog breed recognition.
 
 [Dog Breed Identifier](https://play.google.com/store/apps/details?id=com.zaeri.sabourinia.dogbreedidentifier)
 
 ### Flower App
 
-Android application available on Google Play.
+Android application for flower recognition using lightweight deep learning models.
 
 [Flower App](https://play.google.com/store/apps/details?id=com.zaeri.sabourinia.flowerapp)
 
