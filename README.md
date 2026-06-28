@@ -197,5 +197,4 @@ dogbreedidentifier1995@gmail.com
 
  **LinkedIn:**
 
- **Google Play Developer Account:** [View Published Android Apps](https://play.google.com/store/apps/developer?id=Alireza+Zaeri+%26+Fatemeh+Sabourinia)
-
+**Google Play Developer Account:** [View My Published AI Applications](https://play.google.com/store/apps/developer?id=Alireza+Zaeri+%26+Fatemeh+Sabourinia)
