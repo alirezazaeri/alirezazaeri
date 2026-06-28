@@ -188,5 +188,14 @@ Author of two research papers currently under peer review, focusing on lightweig
 
 ## Connect
 
-LinkedIn  
-Coming soon
+I'm always happy to connect with developers, researchers, and AI enthusiasts.
+
+If you have questions about the projects or would like to discuss machine learning, computer vision, or AI research, feel free to reach out.
+
+ **Email**
+dogbreedidentifier1995@gmail.com
+
+ **LinkedIn**
+
+ **Google Play Developer Account:** [View Published Android Apps](https://play.google.com/store/apps/developer?id=Alireza+Zaeri+%26+Fatemeh+Sabourinia)
+
