@@ -127,7 +127,7 @@ Android application for flower recognition using lightweight deep learning model
 
 ## Research
 
-Author of two research papers currently under peer review, focusing on lightweight deep learning models for mobile AI and image classification.
+Author of two research papers currently under peer review, focusing on lightweight deep learning models for image classification.
 
 ---
 
