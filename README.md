@@ -64,7 +64,7 @@ A deep learning project focused on optimizing neural network architectures and t
 
 ### ADHD Classification using Traditional Machine Learning
 
-Machine learning pipeline for ADHD classification using neuroimaging and demographic data.
+A Data Science and Machine Learning pipeline for ADHD classification using neuroimaging and demographic data.
 
 **Models**
 
@@ -84,7 +84,7 @@ Machine learning pipeline for ADHD classification using neuroimaging and demogra
 
 ### ADHD Classification using Explainable AI
 
-An explainable machine learning framework for ADHD classification using the same dataset with a different modeling strategy.
+An Explainable AI framework for an ADHD data science pipeline with a different modeling strategy.
 
 **Models**
 
