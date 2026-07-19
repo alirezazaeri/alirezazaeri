@@ -2,6 +2,10 @@
   <img src="Alireza%20Banner.png" alt="Alireza Zaeri GitHub Banner" width="100%">
 </p>
 
+<p align="center">
+  <a href="https://alirezazaeri.github.io"><strong>View My Portfolio Website</strong></a>
+</p>
+
 # Alireza Zaeri
 
 **AI Engineer | Machine Learning Engineer**
@@ -36,7 +40,7 @@ I am also actively involved in AI research and enjoy sharing knowledge, learning
 ## Selected Projects
 
 
-### Dog Breed Recognition
+### [Dog Breed Recognition](https://github.com/alirezazaeri/Dog-Breed-Recognition)
 
 An end-to-end machine learning project focused on developing, training, and optimizing deep learning models to achieve accurate and reliable dog breed classification across 120 breeds.
 
@@ -49,7 +53,7 @@ An end-to-end machine learning project focused on developing, training, and opti
 
 ---
 
-### Flower Classification
+### [Flower Classification](https://github.com/alirezazaeri/Flower-Classification)
 
 A deep learning project focused on optimizing neural network architectures and training strategies to achieve robust and accurate image classification performance.
 
@@ -62,7 +66,7 @@ A deep learning project focused on optimizing neural network architectures and t
 
 ---
 
-### ADHD Classification using Traditional Machine Learning
+### [ADHD Classification using Traditional Machine Learning](https://github.com/alirezazaeri/ADHD-Data-Science-ML)
 
 A Data Science and Machine Learning pipeline for ADHD classification using neuroimaging and demographic data.
 
@@ -82,7 +86,7 @@ A Data Science and Machine Learning pipeline for ADHD classification using neuro
 
 ---
 
-### ADHD Classification using Explainable AI
+### [ADHD Classification using Explainable AI](https://github.com/alirezazaeri/ADHD-Explainable-AI)
 
 An Explainable AI framework for an ADHD data science pipeline with a different modeling strategy.
 
@@ -105,7 +109,7 @@ An Explainable AI framework for an ADHD data science pipeline with a different m
 
 ## Mobile AI Applications
 
-### Dog Breed Identifier
+### [Dog Breed Identifier](https://github.com/alirezazaeri/Dog-Breed-Identifier-Android)
 
 Android application powered by TensorFlow Lite for real-time dog breed recognition.
 
@@ -115,7 +119,7 @@ Android application powered by TensorFlow Lite for real-time dog breed recogniti
 
 ---
 
-### Flower App
+### [Flower App](https://github.com/alirezazaeri/FlowerApp)
 
 Android application for flower recognition using lightweight deep learning models.
 
@@ -201,6 +205,6 @@ If you have questions about the projects or would like to discuss machine learni
  **Email:**
 dogbreedidentifier1995@gmail.com
 
- **LinkedIn:**
+ **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/alirezazaeri)
 
 **Google Play Developer Account:** [View My Published AI Applications](https://play.google.com/store/apps/developer?id=Alireza+Zaeri+%26+Fatemeh+Sabourinia)
